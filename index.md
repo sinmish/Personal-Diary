@@ -1,4 +1,6 @@
 # Personal-Diary
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS_CHTML"></script>
+
 <div align='centre'>
 <h1> Welcome to my Personal Diary <img src="icon.png" width="60px"></h2>
 
