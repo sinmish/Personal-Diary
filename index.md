@@ -1,7 +1,7 @@
 # Personal-Diary
 
 
-<div align='centre'>
+
 # Welcome to my Personal Diary <img src="icon.png" width="60px"></h2>
 
 The love😍 I had
@@ -31,4 +31,4 @@ And then left me
 Your right to break my heart💔 and go away
 
 Still exists today. 
-</div>
+
