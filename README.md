@@ -1,6 +1,6 @@
 # Personl-Diary
 <div align='centre'>
-<h1> Welcome to my Personal Diary <img src="icon.png" width="30px"></h2>
+<h1> Welcome to my Personal Diary <img src="icon.png" width="60px"></h2>
 
 The love😍 I had
 
